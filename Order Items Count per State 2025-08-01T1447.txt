@@ -1,0 +1,52 @@
+	Department	Men	Women
+	State	Order Count	Order Count
+1	California	25,429	21,853
+2	Texas	15,197	12,909
+3	New York	10,456	8,903
+4	Illinois	8,742	7,427
+5	Florida	5,926	5,409
+6	Ohio	5,728	4,406
+7	Arizona	4,220	3,751
+8	Pennsylvania	4,170	3,653
+9	North Carolina	4,162	3,513
+10	Michigan	3,901	3,141
+11	New Jersey	3,598	3,046
+12	Massachusetts	3,141	2,522
+13	Colorado	3,070	2,418
+14	Washington	3,060	2,449
+15	Wisconsin	2,879	2,534
+16	Indiana	2,747	2,354
+17	Georgia	2,746	2,496
+18	Missouri	2,717	2,280
+19	Virginia	2,699	2,291
+20	Minnesota	2,596	2,210
+21	Tennessee	2,473	2,051
+22	Oklahoma	2,246	1,946
+23	Oregon	2,068	1,877
+24	Alabama	2,047	1,951
+25	Iowa	1,940	1,676
+26	Louisiana	1,831	1,525
+27	Kansas	1,669	1,419
+28	Utah	1,635	1,159
+29	Arkansas	1,466	1,310
+30	Maryland	1,340	1,099
+31	South Carolina	1,320	1,141
+32	Nevada	1,263	1,053
+33	Connecticut	1,206	929
+34	New Mexico	1,117	962
+35	Mississippi	1,082	931
+36	Kentucky	1,068	898
+37	Nebraska	1,048	989
+38	Idaho	699	493
+39	West Virginia	584	438
+40	Rhode Island	471	408
+41	North Dakota	458	409
+42	South Dakota	442	365
+43	Montana	440	342
+44	District of Columbia	417	370
+45	New Hampshire	391	315
+46	Wyoming	383	292
+47	Maine	362	279
+48	Delaware	254	204
+49	Vermont	153	103
+50	Alaska	79	85
